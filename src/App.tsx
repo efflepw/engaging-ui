@@ -1,4 +1,5 @@
 import "./App.css";
+
 import { Ambient } from "./components/Image";
 
 const App = () => {
